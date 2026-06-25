@@ -13,6 +13,37 @@
 
 ---
 
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,java,ts,css,scss" />
+</p>
+
+**Frameworks & Libraries**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,rails,postgresql" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" height="50"/>
+</p>
+
+**DevOps & Cloud**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,bash" />
+</p>
+
+**Cybersecurity**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" height="50"/>
+</p>
+
+---
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XicoCaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XicoCaetano&layout=compact&langs_count=7&theme=tokyonight"/>
