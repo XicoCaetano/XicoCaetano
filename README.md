@@ -4,6 +4,15 @@
 
 <h1 align="center">Hi, I'm Francisco Caetano 👋</h1>
 
+## 🧑‍💻 About Me
+
+- 🎓 Pursuing a Master's in **Computer Engineering**, specializing in **Cybersecurity**
+- 🚩 Currently learning and competing in **CTF (Capture The Flag)** challenges
+- 🏢 **Vice President External (VPE)** at [Jeknowledge](https://jeknowledge.com), a Junior Enterprise
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/francisco-caetano-7b3604250/)
+
+---
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XicoCaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XicoCaetano&layout=compact&langs_count=7&theme=tokyonight"/>
